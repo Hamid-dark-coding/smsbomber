@@ -1,3 +1,4 @@
+import os
 try :
     import rainbowtext,pyfiglet
 except ImportError:
