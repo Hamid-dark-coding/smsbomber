@@ -1,6 +1,6 @@
 # smsbomber
 SmS bomber with power speed for iranian 
-<h1>how to install for termux :</h1>
+<h1>how to install for termux and Linux:</h1>
 <code>apt update</code>
 <br>
 <code>apt upgrade</code>
